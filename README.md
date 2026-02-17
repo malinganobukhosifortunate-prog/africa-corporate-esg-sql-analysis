@@ -1,30 +1,31 @@
-Africa Corporate ESG Analysis (SQL Project)
-Overview
+🌍 Africa Corporate ESG Analysis (SQL Project)
+📖 Overview
 
-This project analyzes corporate ESG performance across selected African companies using SQL. The objective was to evaluate sector-level ESG trends and identify high and low performing firms.
+This project analyzes corporate ESG performance across selected African companies using SQL.
+The main objective is to evaluate sector-level ESG trends and identify high and low performing firms.
 
-Tools Used
+🛠️ Tools Used
 
-SQLite (browser-based)
+🟦 SQLite (browser-based)
 
-SQL
+💻 SQL
 
-GitHub
+🐙 GitHub
 
-Key Insights
+📊 Key Insights
 
-Financial and Technology sectors showed the highest average ESG scores.
+💰 Financial and 🖥️ Technology sectors showed the highest average ESG scores.
 
-Energy sector displayed greater variability in ESG performance.
+⚡ Energy sector displayed greater variability in ESG performance.
 
-Companies with strong governance often also showed strong overall ESG performance.
+🏛️ Companies with strong governance often also showed strong overall ESG performance.
 
-Key Queries Performed
+🔍 Key Queries Performed
 
-Average ESG score by sector
+📈 Average ESG score by sector
 
-Top 5 ESG companies
+🏆 Top 5 ESG companies
 
-Bottom 5 ESG companies
+📉 Bottom 5 ESG companies
 
-Environmental vs Governance comparison
+🌱 Environmental vs Governance comparison
